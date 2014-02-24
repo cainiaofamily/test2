@@ -1,0 +1,8 @@
+package Music;
+
+public class Piano extends Instrument{
+
+	public void play(){
+		System.out.println("»¶Ó­Ñ¡Ôñ¸ÖÇÙ£¬Ñ¡ÓÃ¸ÖÇÙµ¯×à·½Ê½!");
+	}
+}
